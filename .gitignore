@@ -1,0 +1,6 @@
+.idea/
+*.[oa]
+.project
+.settings
+.log
+.DS_Store
